@@ -1,0 +1,1 @@
+cmd.exe /k shutdown /r /fw /t 1
